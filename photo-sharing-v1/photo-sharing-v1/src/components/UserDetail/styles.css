@@ -1,0 +1,22 @@
+.user-detail {
+    padding: 20px;
+  }
+  
+  .user-detail .info p {
+    margin: 8px 0;
+  }
+  
+  .photos-link {
+    margin-top: 20px;
+  }
+  
+  .photos-link a {
+    text-decoration: none;
+    color: #388e3c;
+    font-weight: bold;
+  }
+  
+  .photos-link a:hover {
+    text-decoration: underline;
+  }
+  
